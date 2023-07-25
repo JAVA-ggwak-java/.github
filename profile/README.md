@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:D4AF37&height=200&section=header&text=Gold%20King&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=fffce5&desc=with%20Groom&descAlignY=55&descAlign=58)
+
 
 <!--
 
